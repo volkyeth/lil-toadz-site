@@ -1,4 +1,25 @@
-# Noun Site
+# Lil Toadz site
+
+
+## Getting started
+
+Install dependencies
+```
+yarn
+```
+
+Copy `.env.sample` to `.env.local` and fill in `NEXT_PUBLIC_ALCHEMY_KEY`.
+
+To get one, just create a free account on [Alchemy](https://www.alchemy.com/) and [create a key](https://docs.alchemy.com/docs/alchemy-quickstart-guide#1key-create-an-alchemy-key).
+
+then
+```
+yarn dev
+```
+
+and you should be up and running.
+
+
 
 A feature complete customizable template for Nouns Builder DAOs built with
 
