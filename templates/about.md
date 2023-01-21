@@ -2,6 +2,10 @@
 align: left
 ---
 
-## Welcome to your custom page 🎉
+# WTF is Lil Toadz DAO?
 
-To edit this page head to `/templates/about.md`
+Lil Toadz DAO is a derivative of [CrypToadz by GREMPLIN](https://www.cryptoadz.io/). Our mission is to build new projects that promote the meme of CrypToadz via multimedia.
+
+Follow us on Twitter [@liltoadzdao](https://twitter.com/LilToadzDAO)
+
+Stay put. More info coming soon.

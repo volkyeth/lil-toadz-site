@@ -1,4 +1,5 @@
-# WTF is Noun Site?
+# WTF is Lil Toadz DAO?
 
-Congrats on deploying your new nounish website ✨. Head to `/templates/home/description.md` to edit this description.
-For full documentation visit the [Noun Site](https://github.com/neokry/noun-site) page on github.
+Lil Toadz DAO is a derivative of [CrypToadz by GREMPLIN](https://www.cryptoadz.io/). Our mission is to build new projects that promote the meme of CrypToadz via multimedia.
+
+Follow us on Twitter [@liltoadzdao](https://twitter.com/LilToadzDAO)
