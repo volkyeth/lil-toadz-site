@@ -11,7 +11,6 @@ export const theme: ThemeConfig = merge(darkTheme, {
   nav: {
     primary: [
       { label: "DAO", href: "/vote" },
-      { label: "About", href: "/about" },
     ],
     secondary: [],
   },
