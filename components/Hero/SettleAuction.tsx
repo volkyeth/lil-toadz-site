@@ -20,7 +20,6 @@ export const SettleAuction = ({ auction }: { auction?: string }) => {
   });
 
   const isLoading = contractLoading || transactionLoading;
-  const [theme] = useTheme();
 
   return (
     <button
