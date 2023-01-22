@@ -1,3 +1,1 @@
-# My DAO Governance
-
-Edit your voting description in the `templates/vote/description.md` file
+By owning a Lil Toadz DAO token, you can participate in the DAO governance.  In short, you can take part in how we use the treasury funds via putting up proposals for community vote and having the right to vote on said proposals.
